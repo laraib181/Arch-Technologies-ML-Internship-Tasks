@@ -54,7 +54,9 @@ Email spam detection is an essential application of machine learning in natural 
 
  
 
-📂 Notebook: **`Task_1_Email_Spam_Classification.ipynb`**  
+📂 Notebook: **`Task_1_Email_Spam_Classification.ipynb`** 
+<img width="1889" height="886" alt="Screenshot 2025-08-13 121802" src="https://github.com/user-attachments/assets/9ddb48d0-febf-4362-90d9-a5fee26dd4bc" />
+
 
 ---
 
