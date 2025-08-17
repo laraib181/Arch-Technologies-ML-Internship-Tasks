@@ -131,9 +131,13 @@ The MNIST dataset is a benchmark in computer vision, consisting of **60,000 trai
 
 ---
 
-## ▶️ How to Run  
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/ML-Projects.git
-   cd ML-Projects
+📌 Conclusion
+
+Task 1 shows the application of classical machine learning (Random Forest, KNN) in text classification problems.
+
+Task 2 demonstrates the power of deep learning (CNNs) in computer vision, achieving 99% accuracy on MNIST.
+
+Together, these projects cover two fundamental domains of ML: Natural Language Processing (NLP) and Computer Vision (CV).
+
+This repository serves as a learning resource for applying ML/DL techniques across different data modalities.
