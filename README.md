@@ -20,13 +20,13 @@ Email spam detection is an essential application of machine learning in natural 
   - Emails are preprocessed to remove noise (stopwords, punctuation, special symbols).  
   - Features are extracted using text vectorization techniques (like Bag of Words or TF-IDF).  
   - Classification models (Random Forest, KNN) learn patterns that differentiate spam from non-spam emails.
-  - <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/57a83ae3-ea69-4975-bb0f-0ba20ed82406" />
+  - <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/57a83ae3-ea69-4975-bb0f-0ba20ed82406" />
  
 
 - **Algorithms Used**:  
   - **Random Forest**: An ensemble of decision trees that improves accuracy and reduces overfitting. Each tree votes, and the majority decides the final prediction.  
   - **K-Nearest Neighbors (KNN)**: A distance-based algorithm that classifies an email based on the majority class of its nearest neighbors.
-  - <img width="827" height="628" alt="image" src="https://github.com/user-attachments/assets/c24d850c-c962-4148-879f-ec21d26bc305" />
+  - <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/c24d850c-c962-4148-879f-ec21d26bc305" />
 
 
 ### 🛠 Implementation Steps  
@@ -50,7 +50,7 @@ Email spam detection is an essential application of machine learning in natural 
 ### 📊 Results  
 - Both models achieved good performance.  
 - Random Forest showed **higher accuracy** and robustness compared to KNN.
-- <img width="1889" height="886" alt="Screenshot 2025-08-13 121802" src="https://github.com/user-attachments/assets/c9840607-710f-4007-b300-bd349adcdb37" />
+- <img width="300" height="300" alt="Screenshot 2025-08-13 121802" src="https://github.com/user-attachments/assets/c9840607-710f-4007-b300-bd349adcdb37" />
  
 
 📂 Notebook: **`Task_1_Email_Spam_Classification.ipynb`**  
