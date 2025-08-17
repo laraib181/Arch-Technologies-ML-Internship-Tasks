@@ -20,7 +20,7 @@ Email spam detection is an essential application of machine learning in natural 
   - Emails are preprocessed to remove noise (stopwords, punctuation, special symbols).  
   - Features are extracted using text vectorization techniques (like Bag of Words or TF-IDF).  
   - Classification models (Random Forest, KNN) learn patterns that differentiate spam from non-spam emails.
-  - <img width="746" height="758" alt="image" src="https://github.com/user-attachments/assets/57a83ae3-ea69-4975-bb0f-0ba20ed82406" />
+  - <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/57a83ae3-ea69-4975-bb0f-0ba20ed82406" />
  
 
 - **Algorithms Used**:  
